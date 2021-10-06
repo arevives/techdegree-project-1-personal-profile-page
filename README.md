@@ -1,2 +1,1 @@
-# techdegree-project-3
- my 3rd techdegree project
+# Techdegree Project 3-Personal Profile project
