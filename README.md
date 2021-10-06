@@ -1,1 +1,1 @@
-# Techdegree Project 3-Personal Profile project
+# Techdegree Project 1-Personal Profile project
