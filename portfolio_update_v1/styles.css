@@ -57,12 +57,12 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/disneyland-at-night-background-profile-background.jpg') no-repeat top center ;
+  background: url('images/disneyland-at-night-background-profile-background.jpg') no-repeat;
   background-size: 100% 500px;
-  /*width: 100%;*/
+  background-position: top center;
   height: auto;  
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 header {
   line-height: 1.5;
