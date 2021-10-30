@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+.navi {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -31,7 +31,7 @@ a:hover {
   position: fixed;
   text-align: center;
 }
-.nav {
+.navi {
   display: flex;
   justify-content: space-around;
   font-weight: 700;
@@ -40,18 +40,20 @@ a:hover {
   padding: 0;
 }
 
-.nav .name {
+.navi .name {
     display: block;
     margin-right: auto;
     color: white;
 }
-.nav li {
-  padding: 5px 10px 10px 10px;
+.navi li {
+  padding: 5px 45px 10px 10px;
+ 
+    
 }
-.nav a {
+.navi a {
   transition: all .5s;
 }
-.nav a:hover {
+.navi a:hover {
   color: white
 }
 
@@ -72,16 +74,16 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 5px solid #855B1F;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(-10deg);
 }
 .tag {
   background-color: #efefef;
   color: black;
-  padding: 10px;
+  padding: 5px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
