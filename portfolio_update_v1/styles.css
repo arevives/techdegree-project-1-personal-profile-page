@@ -213,3 +213,24 @@ a.social:hover {
 
 }
 
+/* interests.html header css */
+
+.interests-header {
+  text-align: center;
+  background: url('images/aspirations.png') no-repeat;
+  background-size: 100% 500px;
+  background-position: top center;
+  height: auto;  
+  overflow: hidden;
+  padding-top: 30px;
+}
+
+.interests-header {
+  line-height: 1.5;
+}
+
+.figure {
+  color: #2A363B;
+  padding-top: 30px;
+
+}
