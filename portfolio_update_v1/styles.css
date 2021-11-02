@@ -222,7 +222,7 @@ a.social:hover {
   background-position: top center;
   height: auto;  
   overflow: hidden;
-  padding-top: 30px;
+  padding-top: 30px;-
 }
 
 .interests-header {
@@ -231,6 +231,21 @@ a.social:hover {
 
 .figure {
   color: #2A363B;
-  padding-top: 30px;
+  padding-top: 5px;
+  font-size: 10px;
 
 }
+
+.macaroni {
+  border-radius:50%;
+  height: 200px;
+  width: 350px;
+
+}
+
+.cookies {
+  border-radius:50%;
+  height: 250px;
+  width: 375px;
+}
+
