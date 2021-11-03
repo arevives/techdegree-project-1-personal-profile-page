@@ -216,13 +216,14 @@ a.social:hover {
 /* interests.html header css */
 
 .interests-header {
-  text-align: center;
   background: url('images/aspirations.png') no-repeat;
+  text-align: center;
   background-size: 100% 500px;
   background-position: top center;
   height: auto;  
   overflow: hidden;
-  padding-top: 30px;-
+  padding-top: 30px;
+  padding-bottom: 5px;
 }
 
 .interests-header {
@@ -231,7 +232,7 @@ a.social:hover {
 
 .figure {
   color: #2A363B;
-  padding-top: 5px;
+  padding-top: -10px;
   font-size: 10px;
 
 }
