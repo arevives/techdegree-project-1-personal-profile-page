@@ -47,9 +47,9 @@ a:hover {
 }
 .nav li {
   padding: 5px 10px 15px 20px;
- 
-    
+
 }
+
 .nav a {
   transition: all .5s;
 }
@@ -251,5 +251,5 @@ a.social:hover {
 }
 
 .caption {
-  font-size: 10px;
+  font-size: 15px;
 }
