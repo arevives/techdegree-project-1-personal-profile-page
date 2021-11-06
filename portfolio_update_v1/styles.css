@@ -253,3 +253,17 @@ a.social:hover {
 .caption {
   font-size: 15px;
 }
+
+
+/* contact.html header css */
+
+.contact-header {
+  background: url('images/contact-me-page.png') no-repeat;
+  text-align: center;
+  background-size: 100% 500px;
+  background-position: top center;
+  height: auto;  
+  overflow: hidden;
+  padding-top: 30px;
+  padding-bottom: 5px;
+}
