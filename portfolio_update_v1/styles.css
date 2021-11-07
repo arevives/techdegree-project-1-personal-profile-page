@@ -268,3 +268,21 @@ a.social:hover {
   padding-top: 30px;
   padding-bottom: 5px;
 }
+
+.contact-me {
+  padding: -3px 10px 3px 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+  padding-top: 30px;
+
+}
+
+.contact-email {
+  border-radius: 50%;
+
+}
+
+.contact-github {
+  border-radius: 50%;
+}
