@@ -240,7 +240,6 @@ a.social:hover {
   color: #2A363B;
   padding-top: -10px;
   font-size: 10px;
-
 }
 
 .macaroni {
@@ -261,17 +260,18 @@ a.social:hover {
 }
 
 
-/* contact.html header css */
+/* contact.html css */
 
 .contact-header {
   background: url('images/contact-me-page.png') no-repeat;
   text-align: center;
-  background-size: 100% 500px;
+  background-size: 100% auto;
   background-position: top center;
   height: auto;  
   overflow: hidden;
   padding-top: 30px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
+
 }
 
 .contact-me {
@@ -297,4 +297,13 @@ a.social:hover {
 .contact-twitter {
   border-radius: 50%;
   padding-bottom: 10px;
+}
+
+.footer-contact {
+  width: 100%;
+  background-color: black;
+  background: auto;
+  color: rgba(128, 128, 128, 0.945);
+  
+   
 }
