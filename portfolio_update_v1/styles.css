@@ -161,13 +161,14 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(images/twitter-icon.png);
+  border-radius: 50%;
 }
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
+
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(images/github-icon.png);
+  border-radius: 50%;
 }
 a.social:hover {
   opacity: 1;
@@ -231,6 +232,10 @@ a.social:hover {
   line-height: 1.5;
 }
 
+.quote {
+  font-size: 18px;
+}
+
 .figure {
   color: #2A363B;
   padding-top: -10px;
@@ -280,9 +285,16 @@ a.social:hover {
 
 .contact-email {
   border-radius: 50%;
+  padding-bottom: 10px;
 
 }
 
 .contact-github {
   border-radius: 50%;
+  padding-bottom: 10px;
+}
+
+.contact-twitter {
+  border-radius: 50%;
+  padding-bottom: 10px;
 }
