@@ -259,7 +259,11 @@ a.social:hover {
   font-size: 15px;
 }
 
-
+.mother-child {
+  border-radius: 5px;
+  height: 800px;
+  width: 400px;
+}
 /* contact.html css */
 
 .contact-header {
