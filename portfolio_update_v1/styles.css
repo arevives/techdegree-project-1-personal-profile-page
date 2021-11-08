@@ -254,22 +254,25 @@ a.social:hover {
   padding-top: 30px;
   color: #fff;
 }
-
+/* interests.html  ul list css */
+ul .interests {
+  font-weight: normal;
+  
+}
 .quote {
-  font-size: 18px;
+  padding-top: -30px;
+  margin-top: 0em;
+  font-size: 13px;
+  border-radius: 5px;
 }
 
-.figure {
-  color: #2A363B;
-  padding-top: -10px;
-  font-size: 10px;
-}
+
 
 .macaroni {
   border-radius:50%;
   height: 250px;
   width: 350px;
-
+  list-style: none;
 }
 
 .cookies {
@@ -279,14 +282,21 @@ a.social:hover {
 }
 
 .caption {
-  font-size: 15px;
+  font-size: 10px;
 }
 
 .mother-child {
   border-radius: 5px;
   height: 800px;
   width: 400px;
+
 }
+
+ul .photos {
+  list-style: none;
+}
+
+
 /* contact.html css */
 
 .contact-header {
