@@ -232,6 +232,29 @@ a.social:hover {
   line-height: 1.5;
 }
 
+.interest-name {
+  font-family: 'Zen Antique', serif;
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: #fff;
+}
+
+.interest-about-me {
+  font-family: 'Zen Antique', serif;
+  font-size: 20px;
+  padding-top: 30px;
+  color: #fff;
+}
+
+.aspiration {
+  font-family: 'Zen Antique', serif;
+  font-style: italic;
+  font-size: 20px;
+  padding-top: 30px;
+  color: #fff;
+}
+
 .quote {
   font-size: 18px;
 }
