@@ -254,16 +254,16 @@ a.social:hover {
   padding-top: 30px;
   color: #fff;
 }
-/* interests.html  ul list css */
-ul .interests {
-  font-weight: normal;
-  
-}
+
+
 .quote {
-  padding-top: -30px;
-  margin-top: 0em;
   font-size: 13px;
+  font-weight: bold;
   border-radius: 5px;
+}
+
+ul .quote {
+  list-style: none;
 }
 
 
