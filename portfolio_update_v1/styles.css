@@ -173,6 +173,11 @@ a.github {
 a.social:hover {
   opacity: 1;
 }
+
+.top {
+  font-size: 15px;
+}
+
 .clearfix {
   clear: both;
 }
