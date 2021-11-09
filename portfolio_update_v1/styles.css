@@ -262,11 +262,6 @@ a.social:hover {
   border-radius: 5px;
 }
 
-ul .quote {
-  list-style: none;
-}
-
-
 
 .macaroni {
   border-radius:50%;
@@ -312,7 +307,7 @@ ul .photos {
 }
 
 .contact-me {
-  padding: -3px 10px 3px 10px;
+  padding: 0px 10px 3px 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
@@ -339,7 +334,6 @@ ul .photos {
 .footer-contact {
   width: 100%;
   background-color: black;
-  background: auto;
   color: rgba(128, 128, 128, 0.945);
   
    
