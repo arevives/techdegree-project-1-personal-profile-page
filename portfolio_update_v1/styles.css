@@ -199,7 +199,6 @@ a.social:hover {
   }
 
   .nav {
-    max-width: 1200px;
     padding: 0 30px;
   }
 
@@ -299,8 +298,16 @@ ul .photos {
 
 /* contact.html css */
 
+/*contact background image*/
+.contact-image {
+  background-size: cover;
+}
+
 .contact-header {
   background: url('images/contact-me-page.png') no-repeat;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   text-align: center;
   background-size: 100% auto;
   background-position: top center;
@@ -311,14 +318,21 @@ ul .photos {
 
 }
 
+.contact-header h1 {
+flex-basis: 100%;
+
+}
+
 .contact-me {
+  
   padding: 0px 10px 3px 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
   padding-top: 30px;
+  
+} 
 
-}
 
 .contact-email {
   border-radius: 50%;
@@ -336,10 +350,8 @@ ul .photos {
   padding-bottom: 10px;
 }
 
-.footer-contact {
+/*.footer-contact {
   width: 100%;
   background-color: black;
-  color: rgba(128, 128, 128, 0.945);
-  
-   
-}
+  color: rgba(128, 128, 128, 0.945); 
+}*/
