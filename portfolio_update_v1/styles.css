@@ -259,9 +259,17 @@ a.social:hover {
   color: #fff;
 }
 
+.interests-title h2 {
+  text-align: left;
+  background: none;
+
+}
+
 
 .quote {
-  font-size: 13px;
+  background-color: #efefef;
+  padding: 5px;
+  font-size: 18px;
   font-weight: bold;
   border-radius: 5px;
 }
@@ -299,12 +307,15 @@ ul .photos {
 /* contact.html css */
 
 /*contact background image*/
+
 .contact-image {
+  background: url('images/contact-me-page.png') no-repeat;
   background-size: cover;
+  min-height: 100vh;
 }
 
 .contact-header {
-  background: url('images/contact-me-page.png') no-repeat;
+  background: unset;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -350,8 +361,3 @@ flex-basis: 100%;
   padding-bottom: 10px;
 }
 
-/*.footer-contact {
-  width: 100%;
-  background-color: black;
-  color: rgba(128, 128, 128, 0.945); 
-}*/
