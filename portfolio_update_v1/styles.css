@@ -80,8 +80,9 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(-10deg);
 }
+
 .tag {
-  background-color: #efefef;
+  background-color: #5E4352;
   color: black;
   padding: 5px;
   border-radius: 5px;
@@ -101,7 +102,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background: #5E4352;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -119,14 +120,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #855B1F;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #965D62;
 }
 
 footer {
@@ -259,15 +260,14 @@ a.social:hover {
   color: #fff;
 }
 
-.interests-title h2 {
-  text-align: left;
+/*.interests-title h2 {
   background: none;
 
-}
+}*/
 
 
 .quote {
-  background-color: #efefef;
+  background-color: #A8A39D;
   padding: 5px;
   font-size: 18px;
   font-weight: bold;
@@ -276,6 +276,7 @@ a.social:hover {
 
 
 .macaroni {
+  border: 5px solid #855B1F;
   border-radius:50%;
   height: 250px;
   width: 350px;
@@ -283,6 +284,7 @@ a.social:hover {
 }
 
 .cookies {
+  border: 5px solid #855B1F;
   border-radius:50%;
   height: 250px;
   width: 350px;
@@ -293,6 +295,7 @@ a.social:hover {
 }
 
 .mother-child {
+  border: 5px solid #855B1F;
   border-radius: 5px;
   height: 800px;
   width: 400px;
