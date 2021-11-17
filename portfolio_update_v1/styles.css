@@ -252,6 +252,11 @@ a.social:hover {
   color: #fff;
 }
 
+.interests-card .tag {
+  text-align: left;
+  margin: initial;
+}
+
 .aspiration {
   font-family: 'Zen Antique', serif;
   font-style: italic;
@@ -259,11 +264,6 @@ a.social:hover {
   padding-top: 30px;
   color: #fff;
 }
-
-/*.interests-title h2 {
-  background: none;
-
-}*/
 
 
 .quote {
